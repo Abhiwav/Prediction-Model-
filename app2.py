@@ -51,9 +51,6 @@ def main():
     st.title("📉 Customer Churn Prediction")
     st.markdown("#### 🧾 Enter customer details to predict churn")
 
-    with st.sidebar:
-        st.markdown("### 🔧 Settings")
-        st.info("Make sure to fill all details correctly before predicting.")
 
     # Input layout
     col1, col2 = st.columns(2)
