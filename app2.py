@@ -39,7 +39,7 @@ def add_styles():
 
 # Load the trained model
 def load_model():
-    return joblib.load("C:/Users/abhin/Desktop/loan_prediction_api/model/loan_model.pkl")
+    return joblib.load("model/loan_model.pkl")
 
 def main():
     # Apply styles first
