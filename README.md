@@ -55,7 +55,7 @@ Initially, the model was trained using the **top 20 features**. Later, I refined
 
 The Streamlit app is live and available 24/7. Feel free to test it anytime — just enter your data and get predictions instantly.
 
-🔗 **Live App Link**: [Add your Streamlit app link here]
+🔗 **Live App Link**: //mycustomerchurn99.streamlit.app/
 
 ---
 
